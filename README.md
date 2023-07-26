@@ -5,7 +5,7 @@ ethical hacking techniques. Use this script responsibly and legally, with explic
 testing or demonstration purposes. The creator and maintainer of this script are not liable for any misuse or illegal
 activities conducted with it.**
 
-![Logo](Phishing.jpg)
+![Logo](https://b661725.smushcdn.com/661725/n1c9x4-content/uploads/2021/05/phishing.png?lossy=1&strip=1&webp=1)
 
 # Introduction
 
